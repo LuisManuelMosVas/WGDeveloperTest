@@ -1,0 +1,14 @@
+{
+    "name": "webgrowth-bv/junior-software-developer-test",
+    "authors": [
+        {
+            "name": "Norman Reinhard",
+            "email": "info@webgrowth.nl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
